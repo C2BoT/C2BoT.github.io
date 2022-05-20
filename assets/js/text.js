@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Channel @us7a5"],
+        strings: ["♡ 𝐎𝐇 𝐈 𝐋𝐎𝐕𝐄 𝐀𝐌𝐄𝐑𝐈𝐂𝐀 ♡"],
         typeSpeed: 30,
         backSpeed: 0,
         cursorChar: ['❚'],
