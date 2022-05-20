@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["♡ oh i love america ♡"],
+        strings: ["Oh I Love America ♡"],
         typeSpeed: 30,
         backSpeed: 0,
         cursorChar: ['❚'],
